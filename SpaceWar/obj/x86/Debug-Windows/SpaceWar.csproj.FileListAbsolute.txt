@@ -1,0 +1,192 @@
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\highscore.txt
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\backbutton.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\enemyshield1.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\enemyshield2.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\enemyShip.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\gameover.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\laserGreen.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\laserGreenShot.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\laserRed.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\laserRed08.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\laserRedShot.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\life.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\meteorBig.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\meteorBrown_med1.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\meteorBrown_med3.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\meteorBrown_small1.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\meteorBrown_small2.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\meteorSmall.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\playerDamaged.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\shield3.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\textHome.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\ufoBlue.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\ufoGreen.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\ufoRed.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\ufoYellow.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\battlemusic.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\bullet_hit.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\explosion_asteroid.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\explosion_enemy.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\explosion_player.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\gameover.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\hit.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\hitPlayer.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\pause.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\PlayerDie.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\liveup.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\shieldDown.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\swapgun.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\weapon_enemy.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\weapon_player.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\animations\startup.txt
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\bundles\FileDialog.txt
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\bundles\splash.txt
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\fdFile.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\fdFolder.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\FileDialog_Active.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\FileDialog_Background.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\moon.jpg
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\red-ship.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\Swinburne.jpg
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\SwinGameAni.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\panels\FileDialog.txt
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\error.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\StarWars.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\SwinGame.icns
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\SwinGame.ico
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\enemyBlack4.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\enemyRed1.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\home1.jpg
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\home2.jpg
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\home3.jpg
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\home4.jpg
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\numeral1.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\numeral2.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\numeral3.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\powerup1.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\images\powerup2.png
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\beep.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\coin.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\finalbeep.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\sounds\powerupappears.wav
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\arial.ttf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\cour.ttf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\courb.ttf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\cramps.ttf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\deathstar.otf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\galaxy.ttf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\spacedockstencil.ttf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\Resources\fonts\starjedi.ttf
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\MyGame.exe.manifest
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\MyGame.application
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\MyGame.exe
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\MyGame.pdb
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\bin\Debug\SwinGame.dll
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\obj\x86\Debug-Windows\SpaceWar.csprojAssemblyReference.cache
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\obj\x86\Debug-Windows\SpaceWar.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\obj\x86\Debug-Windows\MyGame.exe.manifest
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\obj\x86\Debug-Windows\MyGame.application
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\obj\x86\Debug-Windows\SpaceWar.csproj.CopyComplete
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\obj\x86\Debug-Windows\MyGame.exe
+D:\Program Files (x86)\Bachelor\Sem1\Object-Oriented Programming\Project\SpaceWar1.8\obj\x86\Debug-Windows\MyGame.pdb
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\highscore.txt
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\backbutton.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\enemyshield1.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\enemyshield2.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\enemyShip.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\gameover.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\laserGreen.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\laserGreenShot.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\laserRed.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\laserRed08.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\laserRedShot.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\life.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\meteorBig.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\meteorBrown_med1.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\meteorBrown_med3.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\meteorBrown_small1.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\meteorBrown_small2.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\meteorSmall.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\playerDamaged.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\shield3.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\textHome.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\ufoBlue.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\ufoGreen.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\ufoRed.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\ufoYellow.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\battlemusic.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\bullet_hit.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\explosion_asteroid.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\explosion_enemy.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\explosion_player.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\gameover.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\hit.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\hitPlayer.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\pause.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\PlayerDie.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\liveup.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\shieldDown.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\swapgun.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\weapon_enemy.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\weapon_player.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\animations\startup.txt
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\bundles\FileDialog.txt
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\bundles\splash.txt
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\fdFile.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\fdFolder.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\FileDialog_Active.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\FileDialog_Background.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\moon.jpg
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\red-ship.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\Swinburne.jpg
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\SwinGameAni.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\panels\FileDialog.txt
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\error.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\StarWars.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\SwinGame.icns
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\SwinGame.ico
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\enemyBlack4.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\enemyRed1.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\home1.jpg
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\home2.jpg
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\home3.jpg
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\home4.jpg
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\numeral1.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\numeral2.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\numeral3.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\powerup1.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\images\powerup2.png
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\beep.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\coin.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\finalbeep.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\sounds\powerupappears.wav
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\arial.ttf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\cour.ttf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\courb.ttf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\cramps.ttf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\deathstar.otf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\galaxy.ttf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\spacedockstencil.ttf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\Resources\fonts\starjedi.ttf
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\MyGame.exe.manifest
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\MyGame.application
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\MyGame.exe
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\MyGame.pdb
+D:\GitHub\Repository\SpaceWar\SpaceWar\bin\Debug\SwinGame.dll
+D:\GitHub\Repository\SpaceWar\SpaceWar\obj\x86\Debug-Windows\SpaceWar.csprojAssemblyReference.cache
+D:\GitHub\Repository\SpaceWar\SpaceWar\obj\x86\Debug-Windows\SpaceWar.csproj.CoreCompileInputs.cache
+D:\GitHub\Repository\SpaceWar\SpaceWar\obj\x86\Debug-Windows\MyGame.exe.manifest
+D:\GitHub\Repository\SpaceWar\SpaceWar\obj\x86\Debug-Windows\MyGame.application
+D:\GitHub\Repository\SpaceWar\SpaceWar\obj\x86\Debug-Windows\SpaceWar.csproj.CopyComplete
+D:\GitHub\Repository\SpaceWar\SpaceWar\obj\x86\Debug-Windows\MyGame.exe
+D:\GitHub\Repository\SpaceWar\SpaceWar\obj\x86\Debug-Windows\MyGame.pdb

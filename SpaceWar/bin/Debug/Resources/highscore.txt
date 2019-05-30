@@ -1,0 +1,11 @@
+10
+Robert De Niro 500
+Nguyen The Duy 450
+Russell Crowe  400
+Tom Cruise     350
+Jackie Chan    346
+Brad Pitt      300
+yay            251
+Tom Hanks      250
+Rowan Atkinson 200
+Another One    157
